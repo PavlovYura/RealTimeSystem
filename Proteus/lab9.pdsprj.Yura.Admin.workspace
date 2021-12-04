@@ -6,9 +6,9 @@
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
-   <POPUP w="400" x="233" flags="00000002" y="138" h="100" pid="0" iid="-1">
+   <POPUP w="400" x="5" flags="00000002" y="133" h="316" pid="0" iid="-1">
     <PROPERTIES>
-     <ITEM name="Message Column Width">261</ITEM>
+     <ITEM name="Message Column Width">140</ITEM>
      <ITEM name="ShowGrid">No</ITEM>
      <ITEM name="Source Column Width">100</ITEM>
      <ITEM name="Time Column Width">120</ITEM>
@@ -332,12 +332,8 @@
      <ITEM name="TopLineAddress">E000E000</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="600" x="933" flags="0000002a" y="512" h="400" pid="100" iid="1">
+   <POPUP w="600" x="688" flags="0000002b" y="630" h="400" pid="100" iid="1">
     <PROPERTIES>
-     <ITEM name="Breakpoint 0">"",8000548,0000,69D7,E742,-722076600
-</ITEM>
-     <ITEM name="Breakpoint 1">"",800054C,0000,3C87,E742,-501531184
-</ITEM>
      <ITEM name="CaseSensitive">No</ITEM>
      <ITEM name="DISPADDRS">Yes</ITEM>
      <ITEM name="DISPLNUMS">No</ITEM>
@@ -347,7 +343,7 @@
      <ITEM name="nBreakpoints">0</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="300" x="708" flags="0000000a" y="730" h="300" pid="101" iid="1">
+   <POPUP w="300" x="708" flags="0000000b" y="730" h="300" pid="101" iid="1">
     <PROPERTIES>
      <ITEM name="Address Column Width">93</ITEM>
      <ITEM name="AutoResize">No</ITEM>
@@ -369,21 +365,6 @@
    </POPUP>
    <POPUP w="194" x="748" flags="00000008" y="860" h="281" pid="191" iid="1">
     <PROPERTIES/>
-   </POPUP>
-   <POPUP w="1214" x="179" flags="00000000" y="88" h="909" pid="0" iid="14">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="1384" x="305" flags="00000000" y="84" h="883" pid="0" iid="12">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="1384" x="253" flags="00000001" y="123" h="883" pid="0" iid="2">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="1343" x="239" flags="00008023" y="413" h="495" pid="0" iid="3">
-    <PROPERTIES>
-     <ITEM name="AutoEcho">0</ITEM>
-     <ITEM name="HexMode">0</ITEM>
-    </PROPERTIES>
    </POPUP>
   </PWI>
  </MODULE>
