@@ -376,8 +376,14 @@
    <POPUP w="1384" x="305" flags="00000000" y="84" h="883" pid="0" iid="12">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="1384" x="224" flags="00000000" y="147" h="883" pid="0" iid="2">
+   <POPUP w="1384" x="253" flags="00000001" y="123" h="883" pid="0" iid="2">
     <PROPERTIES/>
+   </POPUP>
+   <POPUP w="1131" x="349" flags="00008023" y="711" h="250" pid="0" iid="3">
+    <PROPERTIES>
+     <ITEM name="AutoEcho">0</ITEM>
+     <ITEM name="HexMode">0</ITEM>
+    </PROPERTIES>
    </POPUP>
   </PWI>
  </MODULE>
